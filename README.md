@@ -8,7 +8,7 @@ A python program to convert pixel art to CSS/SVG
   2. Python Script
      Go to the directory of the python script and run the command in terminal ``python Pixel_art_to_CSS_and_SVG_0.5.py``
      (For Debian-based Linux you may need to do ``sudo apt-get install python-tk`` and ``pip install pillow``)
-###Using the gui
+### Using the gui
   1. Click on the select button for the input image and select an image
   2. Click on the select button for the output and select where to save it, you need to name the file ``something.css`` or ``somthing.svg`` depending on what mode you want
   3. If you want to generate SVG click on the dropdown menu and select the SVG
